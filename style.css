@@ -1,0 +1,20 @@
+html{
+	font-family: sans-serif;
+}
+
+.header ul{
+	list-style-type: none;
+}
+
+.header button{
+	background-color: #FFFFFF;
+	color: #17202A;
+	border: 0;
+	padding: 0 20px;	
+}
+
+.header a{
+	text-decoration: none;
+	color: black;
+	border: 0;
+}
